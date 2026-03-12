@@ -15,7 +15,9 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 -Class 08 [Unsupervised Learning Mini-Project](Class08/Class08MINIPROJECT.qmd)
 
+-Class 09 [Candy PCA mini-project]()
 
+-Class 10 [Structural Bioinformatics]()
 
 
 
