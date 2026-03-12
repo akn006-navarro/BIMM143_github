@@ -9,7 +9,7 @@ My classwork for [BIMM143](https://bioboot.github.io/bimm143_W26/) at UC San Die
 
 -Class 05 [Data viz with ggplot]("class 05/class 05.qmd")
 
--Class 06 [R functions and packages](Class6Rfunctions/CLASS-6-R-Functions!.qmd)
+-Class 06 [R functions and packages](class06/class06.qmd)
 
 -Class 07 [Introduction to machine learning for Bioinformatics](Class07/Class07!.qmd)
 
